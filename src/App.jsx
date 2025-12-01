@@ -2,6 +2,7 @@ import Navbar from './Components/Navbar'
 import Single from './Components/single'
 import Family from './Components/Family'
 import Events from './Components/Events'
+import Contact from './Components/Contact'
 function App() {
 
 
@@ -12,6 +13,7 @@ function App() {
       <Single />
       <Family />
       <Events />
+      <Contact />
     </div>
   )
 }
