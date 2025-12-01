@@ -1,0 +1,204 @@
+{
+  "single": [
+    {
+      "id": 1,
+      "name": "تشارمز",
+      "flavor": "لوز",
+      "description": "بوظة الفانيلا السلسة مغطاة بشوكولاتة الحليب البلجيكية الفاخرة",
+      "weight": "75",
+      "image": "../assets/c-almonds-small.png"
+    },
+    {
+      "id": 2,
+      "name": "تشارمز",
+      "flavor": "فستق",
+      "description": "بوظة الفانيلا محشية بطعم الفستق الطبيعي ومغطاة بالشوكولاتة",
+      "weight": "75",
+      "image": "../assets/c-almonds-small.png"
+    },
+    {
+      "id": 3,
+      "name": "تشارمز",
+      "flavor": "كراميل",
+      "description": "بوظة الفانيلا مع طبقة كراميل لذيذة مغطاة بالشوكولاتة البلجيكية",
+      "weight": "75",
+      "image": "../assets/c-almonds-small.png"
+    },
+    {
+      "id": 4,
+      "name": "شوبتس",
+      "flavor": "فراولة",
+      "description": "بوظة الفراولة المنعشة بطعم فاكهي طبيعي",
+      "weight": "90",
+      "image": "../assets/c-almonds-small.png"
+    },
+    {
+      "id": 5,
+      "name": "شوبتس",
+      "flavor": "ليمون",
+      "description": "بوظة الليمون الخفيفة والمنعشة لمحبي الطعم الحامض",
+      "weight": "90",
+      "image": "../assets/c-almonds-small.png"
+    },
+    {
+      "id": 6,
+      "name": "شوبتس",
+      "flavor": "مانجا",
+      "description": "بوظة المانجا بلمسة استوائية طبيعية",
+      "weight": "90",
+      "image": "../assets/c-almonds-small.png"
+    },
+    {
+      "id": 7,
+      "name": "كوكي ساندويتش",
+      "flavor": "فانيلا",
+      "description": "بوظة الفانيلا بين قطعتين من الكوكيز الشهية",
+      "weight": "100",
+      "image": "../assets/c-almonds-small.png"
+    },
+    {
+      "id": 8,
+      "name": "كوكي ساندويتش",
+      "flavor": "شوكولاتة",
+      "description": "بوظة الشوكولاتة المركزة بين قطعتي كوكيز كاكاو",
+      "weight": "100",
+      "image": "../assets/c-almonds-small.png"
+    },
+    {
+      "id": 9,
+      "name": "بوظة عائلية",
+      "flavor": "فانيلا",
+      "description": "بوظة الفانيلا الكلاسيكية لجميع أفراد العائلة",
+      "weight": "1 لتر",
+      "image": "../assets/c-almonds-small.png"
+    },
+    {
+      "id": 10,
+      "name": "بوظة عائلية",
+      "flavor": "شوكولاتة",
+      "description": "بوظة الشوكولاتة الكريمية الغنية",
+      "weight": "1 لتر",
+      "image": "../assets/c-almonds-small.png"
+    },
+    {
+      "id": 11,
+      "name": "بوظة عائلية",
+      "flavor": "فراولة",
+      "description": "بوظة فراولة بنكهة طبيعية",
+      "weight": "1 لتر",
+      "image": "../assets/c-almonds-small.png"
+    },
+    {
+      "id": 12,
+      "name": "بوظة عائلية",
+      "flavor": "فستق",
+      "description": "بوظة فستق ناعمة بطعم فاخر",
+      "weight": "1 لتر",
+      "image": "../assets/c-almonds-small.png"
+    },
+    {
+      "id": 13,
+      "name": "أرز كافية",
+      "flavor": "قهوة",
+      "description": "بوظة النكهة الإيطالية الأصيلة لمحبي القهوة",
+      "weight": "90",
+      "image": "../assets/c-almonds-small.png"
+    },
+    {
+      "id": 14,
+      "name": "أرز كافية",
+      "flavor": "موكا",
+      "description": "خليط من القهوة والشوكولاتة بنكهة مميزة",
+      "weight": "90",
+      "image": "../assets/c-almonds-small.png"
+    },
+    {
+      "id": 15,
+      "name": "ميني بوبسيكل",
+      "flavor": "عنب",
+      "description": "مصاصة مثلجة بطعم العنب المركز",
+      "weight": "60",
+      "image": "../assets/c-almonds-small.png"
+    },
+    {
+      "id": 16,
+      "name": "ميني بوبسيكل",
+      "flavor": "تفاح أخضر",
+      "description": "نكة التفاح المنعشة في قالب مثلج",
+      "weight": "60",
+      "image": "../assets/c-almonds-small.png"
+    },
+    {
+      "id": 17,
+      "name": "ميني بوبسيكل",
+      "flavor": "كولا",
+      "description": "مصاصة بطعم الكولا اللذيذ",
+      "weight": "60",
+      "image": "../assets/c-almonds-small.png"
+    },
+    {
+      "id": 18,
+      "name": "كيك آيس كريم",
+      "flavor": "كوكيز",
+      "description": "كيك بوظة فاخر بنكهة الكوكيز",
+      "weight": "750",
+      "image": "../assets/c-almonds-small.png"
+    },
+    {
+      "id": 19,
+      "name": "كيك آيس كريم",
+      "flavor": "ريد فيلفت",
+      "description": "كيك بوظة فريد بطعم الريد فيلفت",
+      "weight": "750",
+      "image": "../assets/c-almonds-small.png"
+    },
+    {
+      "id": 20,
+      "name": "كوب آيس كريم",
+      "flavor": "سحلب",
+      "description": "بوظة السحلب بطعمها الشرقي الأصيل",
+      "weight": "120",
+      "image": "../assets/c-almonds-small.png"
+    },
+    {
+      "id": 21,
+      "name": "كوب آيس كريم",
+      "flavor": "كراميل مالح",
+      "description": "بوظة كريمية مع لمسة كراميل مالح مميزة",
+      "weight": "120",
+      "image": "../assets/c-almonds-small.png"
+    },
+    {
+      "id": 22,
+      "name": "آيس كريم سندويتش",
+      "flavor": "فانيلا",
+      "description": "بوظة الفانيلا بين طبقتي بسكويت مقرمش",
+      "weight": "80",
+      "image": "../assets/c-almonds-small.png"
+    },
+    {
+      "id": 23,
+      "name": "آيس كريم سندويتش",
+      "flavor": "كاكاو",
+      "description": "بوظة الشوكولاتة بين بسكويت كاكاو",
+      "weight": "80",
+      "image": "../assets/c-almonds-small.png"
+    },
+    {
+      "id": 24,
+      "name": "بوظة أكواب",
+      "flavor": "لوتس",
+      "description": "بوظة الفانيلا ممزوجة بزبدة اللوتس الفاخرة",
+      "weight": "110",
+      "image": "../assets/c-almonds-small.png"
+    },
+    {
+      "id": 25,
+      "name": "بوظة أكواب",
+      "flavor": "توفي",
+      "description": "بوظة كريمية بنكهة التوفي الغنية",
+      "weight": "110",
+      "image": "../assets/c-almonds-small.png"
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 import Navbar from './Components/Navbar'
+import Single from './Components/single'
 function App() {
 
 
@@ -6,6 +7,7 @@ function App() {
     <div>
       <Navbar />
       <img src="./assets/hero.png" alt="" className="w-full h-76"/>
+      <Single />
     </div>
   )
 }
