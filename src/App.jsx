@@ -9,7 +9,7 @@ function App() {
   return (
     <div>
       <Navbar />
-      <img src="./assets/hero.png" alt="" className="w-full h-76"/>
+      <img src="assets/hero.png" alt="" className="w-full h-76"/>
       <Single />
       <Family />
       <Events />

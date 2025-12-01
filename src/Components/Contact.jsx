@@ -1,14 +1,22 @@
 import { IoLocationSharp } from "react-icons/io5";
 import { CiMail } from "react-icons/ci";
-import { FaPhoneAlt, FaFax, FaFacebookSquare } from "react-icons/fa";
+import { FaPhoneAlt } from "react-icons/fa";
+import { FaFax } from "react-icons/fa";
+import { FaFacebookSquare } from "react-icons/fa";
 import { ImInstagram } from "react-icons/im";
-import factoryImg from "../../assets/factory.png";
 
 const Contact = () => {
     return (
-        <div className="relative text-white flex flex-col items-center justify-center px-48 py-16 bg-cover bg-center bg-no-repeat"
-             style={{ backgroundImage: `url(${factoryImg})` }}>
-            <div className="absolute inset-0" style={{ backgroundColor: 'rgba(0, 30, 126, 0.85)' }}></div>
+        <div 
+            className="relative text-white flex flex-col items-center justify-center px-48 py-16 bg-cover bg-center bg-no-repeat"
+            style={{
+                backgroundImage: "url('assets/factory.png')"
+            }}
+        >
+            {/* Overlay for transparency */}
+            <div className="absolute inset-0 bg-blue-900 bg-opacity-85"></div>
+            
+            {/* Content */}
             <div className="relative z-10 w-full">
                 <h1 className="text-2xl text-center m-7">تواصل معنا</h1>
                 <div className="flex flex-wrap justify-center gap-10 w-full" dir="rtl">
@@ -38,15 +46,15 @@ const Contact = () => {
                 </div>
 
                 <div className="flex gap-4 mt-10 justify-center items-center">
-                    <a href="">
+                    <a href="#" className="hover:scale-110 transition-transform">
                         <FaFacebookSquare className="text-yellow-500 text-5xl hover:text-yellow-400"/>
                     </a>
-                    <a href="">
+                    <a href="#" className="hover:scale-110 transition-transform">
                         <ImInstagram className="text-yellow-500 text-5xl hover:text-yellow-400"/>
                     </a>
                 </div>
             </div>
-            <div className="text-center mt-10 text-white z-50">© Al Arz</div>
+            <div className="relative z-10 text-center mt-10 text-white/50 text-sm">© Al Arz</div>
         </div>
     );
 };
