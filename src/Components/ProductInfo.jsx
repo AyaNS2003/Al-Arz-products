@@ -13,7 +13,12 @@ const ProductInfo = ({ product, onClose }) => {
                 <div className="flex flex-col items-center gap-4">
                     <img src={product.image} alt={product.name} className="w-96 h-96 object-contain" />
                     <p className="text-gray-700 text-center">{product.description}</p>
-                    <p className="text-lg text-blue-900 font-medium">الوزن: {product.weight} غرام</p>
+                    {product.weight && (
+                        <p className="text-lg text-blue-900 font-medium">الوزن: {product.weight}</p>
+                    )}
+                    {product.volume && (
+                        <p className="text-lg text-blue-900 font-medium">الحجم: {product.volume}</p>
+                    )}
                 </div>
                 <button className="bg-blue-900 text-white px-4 py-2 rounded hover:bg-blue-800">التالي</button>
             </div>

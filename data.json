@@ -200,5 +200,103 @@
       "weight": "110",
       "image": "../assets/c-almonds-small.png"
     }
+    ],   
+    "family": [
+    {
+      "id": 26,
+      "name": "عائلة الآرز",
+      "flavor": "فانيلا",
+      "description": "بوظة عائلية كلاسيكية بطعم الفانيلا",
+      "weight": "500 غرام",
+      "image": "../assets/c-chocolate-Small.png"
+    },
+    {
+      "id": 27,
+      "name": "عائلة الآرز",
+      "flavor": "شوكولاتة",
+      "description": "بوظة شوكولاتة كريمية غنية للعائلة",
+      "weight": "500 غرام",
+      "image": "../assets/c-chocolate-Small.png"
+    },
+    {
+      "id": 28,
+      "name": "عائلة الآرز",
+      "flavor": "فراولة",
+      "description": "بوظة فراولة بطعم طبيعي مناسبة للعائلة",
+      "weight": "500 غرام",
+      "image": "../assets/c-chocolate-Small.png"
+    },
+    {
+      "id": 29,
+      "name": "عائلة الآرز",
+      "flavor": "مانجا",
+      "description": "بوظة مانجا منعشة بطابع استوائي",
+      "volume": "2 لتر",
+      "image": "../assets/c-chocolate-Small.png"
+    },
+    {
+      "id": 30,
+      "name": "عائلة الآرز",
+      "flavor": "كريم كراميل",
+      "description": "بوظة كريمية بطعم الكراميل الفاخر",
+      "volume": "2 لتر",
+      "image": "../assets/c-chocolate-Small.png"
+    },
+    {
+      "id": 31,
+      "name": "عائلة الآرز",
+      "flavor": "كوكيز",
+      "description": "بوظة بنكهات الكوكيز اللذيذة",
+      "volume": "2 لتر",
+      "image": "../assets/c-chocolate-Small.png"
+    },
+    {
+      "id": 32,
+      "name": "عائلة الآرز",
+      "flavor": "فستق",
+      "description": "بوظة فستق فاخرة محبوبة للجميع",
+      "volume": "2 لتر",
+      "image": "../assets/c-chocolate-Small.png"
+    },
+    {
+      "id": 33,
+      "name": "عائلة الآرز",
+      "flavor": "قهوة",
+      "description": "بوظة القهوة بطعمها الإيطالي الغني",
+      "volume": "2 لتر",
+      "image": "../assets/c-chocolate-Small.png"
+    },
+    {
+      "id": 34,
+      "name": "عائلة الآرز",
+      "flavor": "سحلب",
+      "description": "بوظة السحلب الشرقية الأصيلة",
+      "volume": "2 لتر",
+      "image": "../assets/c-chocolate-Small.png"
+    },
+    {
+      "id": 35,
+      "name": "عائلة الآرز",
+      "flavor": "كولا",
+      "description": "بوظة بطعم الكولا المنعش للأطفال",
+      "volume": "2 لتر",
+      "image": "../assets/c-chocolate-Small.png"
+    },
+    {
+      "id": 36,
+      "name": "عائلة الآرز",
+      "flavor": "عنب",
+      "description": "بوظة بنكهة العنب الطبيعية",
+      "volume": "2 لتر",
+      "image": "../assets/c-chocolate-Small.png"
+    },
+    {
+      "id": 37,
+      "name": "عائلة الآرز",
+      "flavor": "توت",
+      "description": "بوظة توت بطعم غني ومنعش",
+      "volume": "2 لتر",
+      "image": "../assets/c-chocolate-Small.png"
+    }
   ]
 }
