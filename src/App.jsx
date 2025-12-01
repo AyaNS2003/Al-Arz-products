@@ -1,6 +1,7 @@
 import Navbar from './Components/Navbar'
 import Single from './Components/single'
 import Family from './Components/Family'
+import Events from './Components/Events'
 function App() {
 
 
@@ -10,6 +11,7 @@ function App() {
       <img src="./assets/hero.png" alt="" className="w-full h-76"/>
       <Single />
       <Family />
+      <Events />
     </div>
   )
 }
